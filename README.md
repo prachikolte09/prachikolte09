@@ -1,7 +1,3 @@
-### Hi there 👋
-![image](https://github.com/prachikolte09/prachikolte09/assets/36426578/159468fa-a6c0-4d63-b71b-1fd6c5f92aee)
-
-
 👋 Hey there! I'm Prachi, a passionate backend/fullstack engineer with a flair for creative development and a knack for wearing different hats in the startup world. As a woman in tech, I bring a unique perspective and a drive to innovate across various industries.
 
 🔭 I’m currently working on crafting scalable cloud architectures to revolutionize data management in industries ranging from oil and gas to healthcare and food tech. From optimizing data pipelines to enhancing security measures, every line of code brings us closer to a more efficient and sustainable future.
@@ -15,3 +11,4 @@
 📫 How to reach me: Feel free to drop me a line on prachikolte25@gmail.com or connect with me on https://www.linkedin.com/in/prachikolte/. Let's geek out over tech, discuss startup ideas, or share our favorite hiking trails, up for some secret food recipes  – I'm always up for a good chat!
 
 ⚡ Fun fact: When I'm not coding up a storm, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen. 
+![image](https://github.com/prachikolte09/prachikolte09/assets/36426578/159468fa-a6c0-4d63-b71b-1fd6c5f92aee)
