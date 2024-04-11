@@ -1,4 +1,6 @@
 ### Hi there 👋
+![image](https://github.com/prachikolte09/prachikolte09/assets/36426578/159468fa-a6c0-4d63-b71b-1fd6c5f92aee)
+
 
 👋 Hey there! I'm Prachi, a passionate backend/fullstack engineer with a flair for creative development and a knack for wearing different hats in the startup world. As a woman in tech, I bring a unique perspective and a drive to innovate across various industries.
 
