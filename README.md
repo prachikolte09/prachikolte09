@@ -11,4 +11,5 @@
 📫 How to reach me: Feel free to drop me a line on prachikolte25@gmail.com or connect with me on https://www.linkedin.com/in/prachikolte/. Let's geek out over tech, discuss startup ideas, or share our favorite hiking trails, up for some secret food recipes  – I'm always up for a good chat!
 
 ⚡ Fun fact: When I'm not coding up a storm, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen or wrestling with Sia my gentle giant monster pup
+![image](https://github.com/prachikolte09/prachikolte09/assets/36426578/80934705-437e-4dcd-88de-f98fab75e0a6)
 
