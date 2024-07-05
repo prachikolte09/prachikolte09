@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning the ins and outs of Kubernetes to further elevate my cloud orchestration skills. Never one to shy away from a challenge, I'm diving headfirst into the world of containerization to stay at the forefront of tech innovation.
 
-👯 I’m looking to collaborate on open-source projects that make a meaningful impact in the healthcare or environmental sustainability space. Mainly mission-driven companies. Let's join forces to build solutions that drive positive change and empower startups to thrive!
+👯 I’m looking to collaborate on open-source projects that make a meaningful impact in the healthcare or environmental sustainability space. Mainly mission-driven projects. Let's join forces to build solutions that drive positive change and empower startups to thrive!
 
-💬 Ask me about my journey from  founding engineers in startups in foodtech, the oil and gas industry to transforming legacy PHP code into sleek Django microservices in the food tech realm. I've worn many hats along the way, from developer to entrepreneur, and I've got stories to share and lessons learned.
+💬 Ask me about my journey from  founding engineers in startups in foodtech, the oil and gas industry to transforming legacy PHP code into sleek Django microservices in the food tech realm. I've worn many hats along the way, from just developer to full-cycle engineer, and I've got stories to share and lessons learned.
 
 📫 How to reach me: Feel free to drop me a line on prachikolte25@gmail.com or connect with me on https://www.linkedin.com/in/prachikolte/. Let's geek out over tech, discuss startup ideas, or share our favorite hiking trails, up for some secret food recipes  – I'm always up for a good chat!
 
